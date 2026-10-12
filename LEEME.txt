@@ -1,0 +1,10 @@
+RINNOVA · DEMO LOCAL
+
+1) Extraé el ZIP completo.
+2) Abrí index.html con doble clic en Chrome, Edge o Firefox.
+3) Usá la franja superior para entrar como cliente demo o probar administración. Clave demo: rinnova123.
+4) En el panel admin, “Calendario” permite recorrer meses, seleccionar días y revisar las reservas por horario y estado. Los regalos sin turno se coordinan en “Reservas y regalos”. Los cambios se guardan en este navegador. “Reiniciar demo” borra los datos de prueba. Si el navegador bloquea el almacenamiento en archivos locales, el acceso de demo se conserva mediante la dirección local de la página.
+
+Precios, cuenta bancaria, pagos, turnos y compras son ficticios y locales. No se envía ninguna información a la clínica.
+
+Este proyecto HTML/CSS/JS separado simula las acciones en el navegador para probar el diseño y los flujos. La versión funcional para clientes requiere el servidor y la base de datos: registro seguro, usuarios individuales, turnos reservados entre dispositivos, subida de medios con almacenamiento central y permisos de administración. Los pagos por banco, Abitab y Redpagos se verifican manualmente; para cobrar automáticamente haría falta integrar un proveedor de pagos. Para enviar el regalo por correo también hace falta un servicio de correo.
